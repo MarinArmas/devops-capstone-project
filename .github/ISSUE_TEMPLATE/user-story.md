@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: User Story
+about: This template is for creating user stories.
 title: ''
 labels: ''
 assignees: ''
